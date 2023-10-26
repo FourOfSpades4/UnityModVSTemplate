@@ -8,20 +8,6 @@
     <Icon>__TemplateIcon.png</Icon>
   </TemplateData>
   <TemplateContent>
-    <References>
-      <Reference>
-        <Assembly>Assembly-CSharp_publicized</Assembly>
-      </Reference>
-      <Reference>
-        <Assembly>Assembly-CSharp-firstpass_publicized</Assembly>
-      </Reference>
-      <Reference>
-        <Assembly>UnityEngine.CoreModule</Assembly>
-      </Reference>
-      <Reference>
-        <Assembly>UnityEngine</Assembly>
-      </Reference>
-    </References>
-    <ProjectItem SubType="" TargetFileName="$fileinputname$.cs" ReplaceParameters="true">UtilsClass1.cs</ProjectItem>
+    <ProjectItem SubType="" TargetFileName="$fileinputname$.cs" ReplaceParameters="true">UtilsClass.cs</ProjectItem>
   </TemplateContent>
 </VSTemplate>
