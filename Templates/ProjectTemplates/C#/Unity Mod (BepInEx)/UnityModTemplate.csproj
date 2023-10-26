@@ -2,12 +2,12 @@
 
 	<PropertyGroup>
 		<TargetFramework>net6.0</TargetFramework>
-		<AssemblyName>OrbusBase</AssemblyName>
 		<Description>Base Library for BepInEx Modding</Description>
 		<Version>1.0.0</Version>
 		<AllowUnsafeBlocks>true</AllowUnsafeBlocks>
 		<LangVersion>latest</LangVersion>
-		<RootNamespace>OrbusBase</RootNamespace>
+		<RootNamespace>$safeprojectname$</RootNamespace>
+    		<AssemblyName>$safeprojectname$</AssemblyName>
 		<EnableDefaultCompileItems>false</EnableDefaultCompileItems>
 	</PropertyGroup>
 
